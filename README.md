@@ -1,0 +1,1 @@
+Developed a web-based quiz application where users can attempt multiple-choice questions. Used Java for the backend logic and HTML/CSS/JavaScript for front-end design and interactive elements, including score tracking.
